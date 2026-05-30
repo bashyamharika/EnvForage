@@ -360,3 +360,4 @@ class CompatibilityResolver:
             return "rocm" + rocm_version
 
         return None
+
