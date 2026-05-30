@@ -7,7 +7,6 @@ consistent with the existing test_agent.py patterns.
 from __future__ import annotations
 
 import json
-import sys
 from pathlib import Path
 from unittest.mock import MagicMock, patch
 

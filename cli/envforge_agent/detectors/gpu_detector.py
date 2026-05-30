@@ -10,9 +10,6 @@ from __future__ import annotations
 import subprocess
 
 import logging
-import re
-import subprocess
-from typing import NamedTuple
 from envforge_agent.schemas import GPUInfo
 
 logger = logging.getLogger(__name__)
